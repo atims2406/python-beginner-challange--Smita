@@ -1,0 +1,5 @@
+print("Hello! This is my first Python program.")
+print("Name: Smita Jain")
+print("Branch: Artificial Intelligence and Data Science")
+print("Year: 1st year")
+print("About me: I like solving puzzles and I am learning Python.")
